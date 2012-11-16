@@ -1,0 +1,79 @@
+<Message index="1">
+  <PalletInit>
+    <Pallets>
+      <Pallet>
+	<PalletNumber>1</PalletNumber>
+	<Description>small pallet</Description>
+	<Dimensions>
+	  <Length>300</Length>
+	  <Width>200</Width>
+	  <MaxLoadHeight>406</MaxLoadHeight>
+	  <MaxLoadWeight>166667</MaxLoadWeight>
+	</Dimensions>
+	<Overhang>
+	  <Length>0</Length>
+	  <Width>0</Width>
+	</Overhang>
+	<SecurityMargins>
+	  <Length>0</Length>
+	  <Width>0</Width>
+        </SecurityMargins>
+      </Pallet>
+    </Pallets>
+  </PalletInit>
+  <Order>
+    <ID>1</ID>
+    <Description>palDay1R1Order</Description>
+    <Restrictions>
+      <FamilyGrouping>False</FamilyGrouping>
+      <Ranking>False</Ranking>
+    </Restrictions>
+    <OrderLines>
+      <OrderLine>
+	<OrderLineNo>1</OrderLineNo>
+	<Article>
+	  <ID>3</ID>
+	  <Description>1128 12OZ CN 12/2 FM</Description>
+	  <Type>1</Type>
+	  <Length>132</Length>
+	  <Width>44</Width>
+	  <Height>41</Height>
+	  <Weight>500</Weight>
+	  <Family>2</Family>
+	</Article>
+	<Barcodes>
+	  <Barcode>1128001</Barcode>
+	  <Barcode>1128002</Barcode>
+	  <Barcode>1128003</Barcode>
+	  <Barcode>1128004</Barcode>
+	  <Barcode>1128005</Barcode>
+	  <Barcode>1128001</Barcode>
+	  <Barcode>1128002</Barcode>
+	  <Barcode>1128003</Barcode>
+<Barcode>1128001</Barcode>
+	  <Barcode>1128002</Barcode>
+	  <Barcode>1128003</Barcode>
+<Barcode>1128003</Barcode>
+	  <Barcode>1128004</Barcode>
+	  <Barcode>1128005</Barcode>
+	  <Barcode>1128001</Barcode>
+	 <Barcode>1128001</Barcode>
+	  <Barcode>1128002</Barcode>
+	  <Barcode>1128003</Barcode>
+	  <Barcode>1128004</Barcode>
+	  <Barcode>1128005</Barcode>
+	  <Barcode>1128001</Barcode>
+	  <Barcode>1128002</Barcode>
+	  <Barcode>1128003</Barcode>
+<Barcode>1128001</Barcode>
+	  <Barcode>1128002</Barcode>
+	  <Barcode>1128003</Barcode>
+<Barcode>1128003</Barcode>
+	  <Barcode>1128004</Barcode>
+	  <Barcode>1128005</Barcode>
+	  <Barcode>1128001</Barcode>
+        </Barcodes>
+      </OrderLine>
+     </OrderLines>
+  </Order>
+</Message>
